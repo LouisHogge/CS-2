@@ -1,0 +1,38 @@
+Ne modifiez pas ce fichier (même cette ligne) sauf pour y ajouter vos réponses
+aux endroits marqués de "..."
+
+Etudiant 1:
+Matricule: S193340
+Nom: Jacobs
+Prénom: Hugo
+Contribution au projet: 50 %
+
+Etudiant 2: (laissez vide si vous avez fait le projet seul)
+Matricule: S192814
+Nom: Hogge
+Prénom: Louis
+Contribution au projet: 50 %
+
+Mode classique
+--------------
+
+hintRandom:
+Nombre de gemmes détruites: moyenne: 301 | écart-type: 271
+Nombre d'échanges: moyenne: 73 | écart-type: 65
+
+hintBestExplosion:
+Nombre de gemmes détruites: moyenne: 740  | écart-type: 672
+Nombre d'échanges: moyenne: 184 | écart-type: 168 
+
+
+Mode explosif
+-------------
+
+hintRandom:
+Nombre de gemmes détruites: moyenne: 869 | écart-type: 830
+Nombre d'échanges: moyenne: 162 | écart-type: 153
+
+hintBestExplosion:
+Nombre de gemmes détruites: moyenne: 2017 | écart-type: 1927
+Nombre d'échanges: moyenne: 363 | écart-type: 295
+
